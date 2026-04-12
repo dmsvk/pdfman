@@ -1,0 +1,9 @@
+[submodule "pdfman-ui"]
+	path = pdfman-ui
+	url = https://github.com/dmsvk/pdfman-ui.git
+[submodule "pdfman-backend"]
+	path = pdfman-backend
+	url = https://github.com/dmsvk/pdfman-backend.git
+[submodule "pdfman-tf"]
+	path = pdfman-tf
+	url = https://github.com/dmsvk/pdfman-tf.git
